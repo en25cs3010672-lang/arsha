@@ -4,7 +4,9 @@ Static website built from the Arsha Bootstrap template.
 
 ## GitHub Pages
 
-The site deploys automatically from `main` with GitHub Actions. After the first deployment, open the repository's **Settings → Pages** to see its public URL.
+The site is live at https://en25cs3010672-lang.github.io/arsha.
+
+This repository is configured to publish via GitHub Pages using GitHub Actions. The Pages source was set to "GitHub Actions," and the deployment workflow completed successfully.
 
 The website is static. The template's PHP contact and newsletter handlers are not supported by GitHub Pages, so those forms will not submit until connected to a separate form service or backend.
 
